@@ -2,6 +2,8 @@
 
 [![Release](https://github.com/pagopa/terraform-aws-modules/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/pagopa/terraform-aws-modules/actions/workflows/release.yml)
 
+[![Static Analysis](https://github.com/pagopa/terraform-aws-modules/actions/workflows/static_analysis.yml/badge.svg?branch=main)](https://github.com/pagopa/terraform-aws-modules/actions/workflows/static_analysis.yml)
+
 Terraform AWS modules
 
 ## Semantic versioning

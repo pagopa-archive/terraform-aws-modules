@@ -1,5 +1,5 @@
 module "iam_role" {
-  source = "git::git@github.com:pagopa/pdnd-infra-tf-modules.git//aws_iam_role?ref=v0.1.0"
+  source = "git::https://github.com/pagopa/terraform-aws-modules.git//aws_iam_role?ref=v1.4.0"
   name   = var.iam_role_name != null ? var.iam_role_name : join("-", [var.cluster_name, "role"])
 
   environment = var.environment

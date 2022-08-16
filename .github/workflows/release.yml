@@ -7,9 +7,9 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'CODEOWNERS'
-      - '**.md'
-      - '.**'
+      - "CODEOWNERS"
+      - "**.md"
+      - ".**"
 
 jobs:
   release:

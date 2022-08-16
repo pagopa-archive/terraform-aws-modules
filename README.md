@@ -1,5 +1,7 @@
 # aws modules
 
+[![Release](https://github.com/pagopa/terraform-aws-modules/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/pagopa/terraform-aws-modules/actions/workflows/release.yml)
+
 Terraform AWS modules
 
 ## Semantic versioning
